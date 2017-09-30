@@ -3,7 +3,7 @@ Test for solving drone flipping problem using numerical optimal control (specifi
 
 Fast example: run MAIN_flip.m (fast result)
 
-Long example: run MAIN_flip_long.m (result include stabling stage)
+Long example: run MAIN_flip_long.m (result include stabilizing stage after flipping)
 
 dependent packages: chebfun-master(v5.7.0), casadi-matlabR2014b-v3.2.3(linux x64).
 
@@ -17,7 +17,7 @@ public files:
 
 Acknowlegment:
 
-               Trajectory Optimization - Matthew Kelly
-               Mahony, Robert, Vijay Kumar, and Peter Corke. "Multirotor aerial vehicles." IEEE Robotics and Automation magazine 20.32 (2012)               
+               Trajectory Optimization (package) - Matthew Kelly
+               "Multirotor aerial vehicles." Mahony, Robert, Vijay Kumar, and Peter Corke. IEEE Robotics and Automation magazine 20.32 (2012)               
                Rolling Spider software package for Education (MIT toolbox)
-               ME290J 2016 spring, UC Berkeley, Francesco Borrelli
+               ME290J 2016 spring lectures, UC Berkeley, Francesco Borrelli
