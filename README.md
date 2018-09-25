@@ -21,3 +21,7 @@ Acknowlegment:
                "Multirotor aerial vehicles." Mahony, Robert, Vijay Kumar, and Peter Corke. IEEE Robotics and Automation magazine 20.32 (2012)               
                Rolling Spider software package for Education (MIT toolbox)
                ME290J 2016 spring lectures, UC Berkeley, Francesco Borrelli
+
+===
+
+License:    BSD  (https://github.com/yzhao334/Flipping-Test/blob/master/LICENSE)
